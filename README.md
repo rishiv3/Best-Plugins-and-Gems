@@ -40,18 +40,14 @@ The best gem or plugin for rails application as below,
 
 #Some more useful links
 ````html
-<div>
-	<ul>
-		<li>1. Ruby regular expression editor - <a href="http://rubular.com/">http://rubular.com/</a></li>
-		<li>2. Convert Html Snippets to Haml Snippets - <a href="http://html2haml.heroku.com/">http://html2haml.heroku.com/</a></li>
-		<li>3. Convert CSS Snippets to Syntactically Awesome StyleSheets code - <a href="http://css2sass.heroku.com/">http://css2sass.heroku.com/</a></li>
-		<li>4. displaying images, html content and multi-media in a Mac-style "lightbox" that floats overtop of web page - <a href="http://fancybox.net/">http://fancybox.net/</a></li>
-		<li>5. The online event registration and ticketing tool - <a href="https://www.amiando.com/">https://www.amiando.com/</a></li>
-		<li>6. Epoch & Unix Timestamp Conversion - <a href="http://www.epochconverter.com/">http://www.epochconverter.com/</a></li>
-		<li>7. Email Delivery - <a href="http://sendgrid.com/">http://sendgrid.com/</a></li>
-		<li>8. Online image converter - <a href="http://www.go2convert.com/">http://www.go2convert.com/</a></li>
-		<li>9. Web Page Validation - <a href="http://www.w3schools.com/site/site_validate.asp">http://www.w3schools.com/site/site_validate.asp</a></li>
-		<li>10. Web technology information profiler tool - <a href="http://builtwith.com/">http://builtwith.com/</a></li>
-	</ul>
-</div>
+1. Ruby regular expression editor - http://rubular.com/
+2. Convert Html Snippets to Haml Snippets - http://html2haml.heroku.com/
+3. Convert CSS Snippets to Syntactically Awesome StyleSheets code - http://css2sass.heroku.com/
+4. displaying images, html content and multi-media in a Mac-style "lightbox" that floats overtop of web page - http://fancybox.net/
+5. The online event registration and ticketing tool - https://www.amiando.com/
+6. Epoch & Unix Timestamp Conversion - http://www.epochconverter.com/
+7. Email Delivery - http://sendgrid.com/
+8. Online image converter - http://www.go2convert.com/ 
+9. Web Page Validation - http://www.w3schools.com/site/site_validate.asp
+10. Web technology information profiler tool - http://builtwith.com/
 ````
