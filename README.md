@@ -1,10 +1,6 @@
-# Best Plugins and Gem
+# Best Plugins and Gem list for Rails Aplications 
 
-Hello Everyone,
 
-The best gem or plugin for rails application as below,
-
-````html
 1. Geo location or google map - https://github.com/alexreisner/geocoder
 2. Rails Authentication - https://github.com/plataformatec/devise
 3. Twitter API - https://github.com/sferik/twitter
@@ -32,10 +28,9 @@ The best gem or plugin for rails application as below,
 25. Ruby Version Management - https://github.com/wayneeseguin/rvm
 26. Background Jobs - https://github.com/collectiveidea/delayed_job
 
-````
 
 #Some more useful links
-````html
+
 1. Ruby regular expression editor - http://rubular.com/
 2. Convert Html Snippets to Haml Snippets - http://html2haml.heroku.com/
 3. Convert CSS Snippets to Syntactically Awesome StyleSheets code - http://css2sass.heroku.com/
@@ -46,4 +41,4 @@ The best gem or plugin for rails application as below,
 8. Online image converter - http://www.go2convert.com/ 
 9. Web Page Validation - http://www.w3schools.com/site/site_validate.asp
 10. Web technology information profiler tool - http://builtwith.com/
-````
+
